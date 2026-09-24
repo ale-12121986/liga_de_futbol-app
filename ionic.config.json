@@ -1,0 +1,7 @@
+{
+  "name": "liga_de_futbol-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
