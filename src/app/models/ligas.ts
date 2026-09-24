@@ -1,5 +1,7 @@
 export interface Ligas {
-    idLeague: number;
-    srtLeague: string;
-    srtSport: string;
+    idLeague: string;
+    strLeague: string;
+    strSport: string;
+    strLeagueAlternate?: string;
+
 }
