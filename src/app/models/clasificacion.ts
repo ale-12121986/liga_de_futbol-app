@@ -1,4 +1,5 @@
 export interface Clasificacion {
+    idStanding: number;
     idTeam: number;
     strTeam: string;
     idLeague: number;
@@ -12,4 +13,5 @@ export interface Clasificacion {
     intGoalDifference: number;
     intPoints: number;
     strBadge: string;
+
 }
